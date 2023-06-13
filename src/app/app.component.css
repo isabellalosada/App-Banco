@@ -1,0 +1,11 @@
+.main-menu {
+    display: flex;
+    gap: 16px;
+    list-style: none;
+    padding-left: 0;
+}
+
+.main {
+    background-color: black;
+    text-decoration-color: aquamarine;
+}
