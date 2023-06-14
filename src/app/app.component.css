@@ -5,7 +5,7 @@
     padding-left: 0;
 }
 
-.main {
-    background-color: black;
-    text-decoration-color: aquamarine;
+body {
+    font-size: size 18px;
+    font-family: 'Times New Roman', Times, serif;
 }
