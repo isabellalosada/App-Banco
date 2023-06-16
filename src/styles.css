@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+.main-menu {
+    display: flex;
+    gap: 16px;
+    list-style: none;
+    padding-left: 0;
+}
+
+body {
+    font-size: size 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
