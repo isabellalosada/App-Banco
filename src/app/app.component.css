@@ -17,30 +17,6 @@ body {
     color: white;
 }
 
-.grid-container {
-    display: grid;
-    grid-template-rows: auto;
-    grid-template-columns: 3fr 1fr;
-    grid-template-areas:
-    "header  header"
-    "nav  nav"
-    "main  sidebar"
-    "footer  footer";
-    max-width: 960px;
-    margin: auto;
-}
-
-
-main {
-    grid-area: main;
-    min-height: auto;
-}
-
-
-.main-header{
-    grid-area: header;
-}
-
 
 .main-title{
     color: rgb(240, 207, 3);
